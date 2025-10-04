@@ -1,0 +1,3 @@
+[submodule "FluteEngine/vendor/spdlog"]
+	path = FluteEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
